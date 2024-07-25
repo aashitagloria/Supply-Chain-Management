@@ -1,5 +1,5 @@
 # Supply-Chain-Management
-<h3> As a part of my M1 course on Human Resource Management, I aim to share my expertise my publishing my Final Group Project in this Repository </h3> 
+<h3> As a part of my M1 course on Supply Chain Management, I aim to share my expertise my publishing my Final Group Project in this Repository </h3> 
 
 <h1> 💻 PROJECT DESCRIPTION AND ACCESS LINK:  </h1>
 
